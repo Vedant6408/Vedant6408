@@ -5,8 +5,8 @@
 🐍 Currently learning Python  
 📍 India  
 🚀 Documenting my coding journey  
-🎓 Mathematics Student
-<h5>⚡⚡ Fun fact: Doing complex things into simpler is my hobby.</h5>
+🎓 Mathematics Student  
+⚡ Fun fact: Doing complex things into simpler is my hobby.
 
 ## What I'm working on
 - Python basics & mini projects
