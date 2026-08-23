@@ -1,7 +1,6 @@
-## Hi there 👋
-# I'm Vedant 
 
-🧠 Self-taught programmer  
+# it's Vedant 
+
 🐍 Currently learning Python  
 📍 India  
 🚀 Documenting my coding journey  
