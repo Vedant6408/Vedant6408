@@ -12,8 +12,6 @@
 - Python basics & mini projects
 - Building problem-solving skills
 
-## Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vedant_.arya/)
 <!--
 **Vedant6408/Vedant6408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
